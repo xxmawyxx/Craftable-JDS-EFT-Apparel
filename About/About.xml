@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Craftable - [JDS] EFT Apparel</name>
+	<author>Mawy</author>
+	<supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>
+	<packageId>Mawy.craftable.eft</packageId>
+	<modDependencies>
+		<li>
+			<packageId>JangoDsoul.EFT.Apparel</packageId>
+			<displayName>[JDS] EFT Apparel</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2369524454</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+</ModMetaData>
