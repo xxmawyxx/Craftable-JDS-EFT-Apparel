@@ -6,6 +6,15 @@
 		<li>1.2</li>
 	</supportedVersions>
 	<packageId>Mawy.craftable.eft</packageId>
+	<description>
+	Simple XML mod to allow to craft equipment from [JDS] EFT Apparel by JangoDsoul.
+
+	Maybe I have to balance a bit of cost and amount of work from items.
+
+	Credits:
+	- JangoDsoul - For the creation of [JDS] EFT Apparel
+	- Battlestate Games - For the development of Escape from Tarkov
+	</description>
 	<modDependencies>
 		<li>
 			<packageId>JangoDsoul.EFT.Apparel</packageId>
@@ -13,4 +22,7 @@
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2369524454</steamWorkshopUrl>
 		</li>
 	</modDependencies>
+	<loadAfter>
+		<li>JangoDsoul.EFT.Apparel</li>
+	</loadAfter>
 </ModMetaData>
